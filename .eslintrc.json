@@ -9,8 +9,5 @@
     "ecmaVersion": "latest"
   },
   "rules": {
-    "no-console": "error",
-    "no-unused-vars": "error",
-    "arrow-parens": "error"
   }
 }
